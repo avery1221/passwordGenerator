@@ -1,0 +1,27 @@
+.container{
+    height: 200px;
+    width:  500px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+textarea{
+    width:  1075px;
+    height: 100px;
+}
+.card-body{
+    flex-wrap: wrap;
+}
+.card-footer1{
+    float: left;
+}
+.card-footer2{
+    float: right;
+}
+#result{
+    position: absolute;
+    left: 100vw
+}
